@@ -1,0 +1,9 @@
+{
+	"name": "kfloresafactoriadedatos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6404f31-e50b-4bf2-a64f-d29ad64c9298",
+		"tenantId": "af862d9c-e960-4915-9537-e1bf1a800fbc"
+	}
+}
